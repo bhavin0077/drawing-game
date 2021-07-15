@@ -18,7 +18,4 @@ Interactive application built with HTML Canvas, JavaScript and jQuery.
 	<li>The user can reset the game at any time and start drawing on an empty canvas.</li>
 	<li>The user can save the drawing and access it after opening the page again.</li>
 </ul>
-<img src="images/drawscreen1.png" width="350px">
-<img src="images/drawscreen2.png" width="350px">
-<img src="images/drawscreen3.png" width="350px">
-<img src="images/drawscreen4.png" width="350px">
+
